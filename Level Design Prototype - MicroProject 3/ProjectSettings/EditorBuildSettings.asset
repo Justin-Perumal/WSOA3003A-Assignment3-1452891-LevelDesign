@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GruntBattle.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BeserkerBattle.unity
+    guid: 63d9d0cd55bcefc47b52cf6c510e574d
+  - enabled: 1
+    path: Assets/Scenes/BossBattle.unity
+    guid: 418c869d30f72734c8e4d3f6ab735be9
+  m_configObjects: {}
